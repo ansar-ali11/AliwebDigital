@@ -95,10 +95,10 @@ export function ContactSection() {
                 <Mail size={15} />
               </span>
               <a
-                href="mailto:alidigitalexpo11@gmail.com"
+                href="mailto:aliwebdigital11@gmail.com"
                 className="hover:text-white"
               >
-                alidigitalexpo11@gmail.com
+                aliwebdigital11@gmail.com
               </a>
             </li>
 

@@ -64,7 +64,7 @@ function PrivacyPolicyPage() {
         <div>
           <h2 className="text-2xl font-display font-bold uppercase tracking-tight mb-4">Contact</h2>
           <p className="leading-relaxed">
-            For privacy questions, email us at <a href="mailto:alidigitalexpo11@gmail.com" className="text-electric underline">alidigitalexpo11@gmail.com</a>.
+            For privacy questions, email us at <a href="mailto:aliwebdigital11@gmail.com" className="text-electric underline">aliwebdigital11@gmail.com</a>.
           </p>
         </div>
       </section>

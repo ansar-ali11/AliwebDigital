@@ -57,7 +57,7 @@ function RefundPolicyPage() {
         <div>
           <h2 className="text-2xl font-display font-bold uppercase tracking-tight mb-4">Contact</h2>
           <p className="leading-relaxed">
-            To request a cancellation or refund, email <a href="mailto:alidigitalexpo11@gmail.com" className="text-electric underline">alidigitalexpo11@gmail.com</a> with the project details.
+            To request a cancellation or refund, email <a href="mailto:aliwebdigital11@gmail.com" className="text-electric underline">aliwebdigital11@gmail.com</a> with the project details.
           </p>
         </div>
       </section>

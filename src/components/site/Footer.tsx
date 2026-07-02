@@ -54,7 +54,7 @@ export function Footer() {
             <ul className="space-y-4 text-sm">
               <li className="flex items-start gap-3 text-white/70">
                 <Mail size={16} className="mt-0.5 text-electric" />
-                <a href="mailto:alidigitalexpo11@gmail.com" className="hover:text-white transition-colors">alidigitalexpo11@gmail.com</a>
+                <a href="mailto:aliwebdigital11@gmail.com" className="hover:text-white transition-colors">aliwebdigital11@gmail.com</a>
               </li>
               <li className="flex items-start gap-3 text-white/70">
                 <Phone size={16} className="mt-0.5 text-electric" />

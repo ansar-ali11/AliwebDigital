@@ -121,7 +121,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "Yes — we offer maintenance and retainer options.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
   {
     slug: "portfolio-websites",
@@ -141,7 +141,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "Yes — we can add a lightweight CMS for content updates.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
   {
     slug: "business-websites",
@@ -157,7 +157,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "Yes — we can migrate from most common platforms.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
   {
     slug: "admin-panels",
@@ -173,7 +173,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "React + typed APIs (tRPC/REST) and PostgreSQL or other preferred DBs.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
   {
     slug: "ui-ux-design",
@@ -189,7 +189,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "Yes — Figma source files and assets are provided.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
   {
     slug: "branding",
@@ -205,7 +205,7 @@ export const serviceDetails: ServiceDetails[] = [
         a: "We can include naming as an add-on service.",
       },
     ],
-    contact: { email: "alidigitalexpo11@gmail.com" },
+    contact: { email: "aliwebdigital11@gmail.com" },
   },
 ];
 
